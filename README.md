@@ -16,8 +16,11 @@ Regresión Lineal Simple:
 Metodos Utilizados en Lineal Simple
 
 entrenar()	Calcula los coeficientes del modelo	Fórmulas de pendiente e intercepto o ecuación matricial
+
 predecir()	Calcula valores de Y a partir de X	y = m * x + b o y = b₀ + b₁x₁ + …
+
 calcularR2()	Evalúa el ajuste del modelo	R² = 1 - (errores al cuadrado / total de diferencias)
+
 calcularMSE()	Mide los errores del modelo	MSE = (errores al cuadrado) / n
 
 Variable independiente (X): Temperatura (°C)
