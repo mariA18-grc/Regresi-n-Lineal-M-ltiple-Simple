@@ -16,6 +16,8 @@ En este proyecto se implementaron dos modelos de regresión lineal en Java:
 
 Ambos modelos buscan encontrar una relación matemática entre las variables independientes (X) y la variable dependiente (Y), permitiendo hacer predicciones a partir de nuevos datos.
 
+## Estructura del código
+
 ### Regresión Lineal Simple:
 
 Metodos Utilizados en Lineal Simple
@@ -54,6 +56,14 @@ fit(): Método por medio del cual el modelo aprende con los datos ofrecidos, don
 predict(): Halla y_hat de acuerdo con los pesos y bias proporcionado anteriormente. La predicción se lleva a cabo con el 30% de los datos restantes.
 
 score(): Se hace la medición de las métricas de la regresión y ayuda a comprobar que tan preciso fue el modelo a la hora de hacer la predicción de acuerdo con los datos que ya había "aprendido" anteriormente.
+
+## Problemas y soluciones hallados durante el desarrollo de la práctica
+
+**- Diferencias entre el modelo de regresión lineal múltiple y regresión lineal simple:**  Antes de empezar la construcción de ambos modelos, era necesario comprender en qué variaba cada uno de ellos y cuál era el más adecuado para cada uno de los datasets provistos. Entre estos detalles, entender las nuevas variables que aparecían en el modelo de regresión lineal múltiple y entender cuál era su rol.
+
+**- Escribir los datasets en los arreglos bidimensionales:**  Dado que el dataset de student_exam_scores.csv contenía demasiadas filas o datos diferentes (200 datos distintos), escribirlos a mano era bastante complejo y hacía exhaustivamente largo el código, por ello, era necesario hacer una implementación de lectura de datos adicional y así, facilitar esta tarea.
+
+**- Estructuración del programa en diferentes clases y métodos para mayor facilidad en la implementación:**  Dado que el desarrollo de este modelo se vuelve un poco más complejo cuando se trata de la regresión lineal múltiple, hacer un diagrama de clases era muy importante para así tener mayor claridad de qué parte se encargaría cada clase en específico. Con ello, lograr un programa más claro y fácil de leer, donde se entienda claramente el rol de cada clase para la ejecución del modelo.
 
 ## Conclusiones
 
