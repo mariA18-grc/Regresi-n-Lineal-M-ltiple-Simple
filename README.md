@@ -1,8 +1,13 @@
 # Regresión Lineal Múltiple- Multiple y Simple
-##Integrantes:
-Sara Arboleda -
-María Paula Gómez
---------------------------------------------
+Autores\
+Sara Arboleda Quintero\
+María Paula Gómez García
+
+**Link Video Explicación:**  https://youtu.be/eFGtqE75Pw0?si=wCE77ZdgYaYPceKP 
+
+# Descripción general
+El propósito de este proyecto, donde se escogió el lenguaje de programación JAVA para su desarrollo, es crear un modelo de regresión lineal desde cero, sin apoyarse en el uso de librerías o clases externas que faciliten el cálculo de las operaciones matriciales requeridas, o para el cálculo de algunas métricas que desmuestren el funcionamiento del modelo. La funcionalidad de este modelo es analizar la relación entre unas variables independientes y una variable dependiente continua. Este proyecto forma parte del ejercicio propuesto en la Práctica #3 que busca afianzar los conocimientos en los lenguajes de programación POO (Programación orientada a objetos) que sirven para crear proyectos complejos mediante clases y métodos.
+
 En este proyecto se implementaron dos modelos de regresión lineal en Java:
 
 Regresión Lineal Simple: para analizar la relación entre la temperatura y las ventas de helados.
