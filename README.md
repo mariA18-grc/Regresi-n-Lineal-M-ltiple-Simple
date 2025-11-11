@@ -1,4 +1,4 @@
-# Regresión Lineal Múltiple- Multiple y Simple
+# Regresión Lineal Múltiple y Simple
 Autores\
 Sara Arboleda Quintero\
 María Paula Gómez García
