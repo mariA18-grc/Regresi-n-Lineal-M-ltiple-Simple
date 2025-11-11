@@ -1,1 +1,1 @@
-# Regresi-n-Lineal-M-ltiple-Simple
+# Regresión Lineal Múltiple Simple
