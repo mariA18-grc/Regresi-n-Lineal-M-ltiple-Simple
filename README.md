@@ -1,5 +1,6 @@
 # Regresión Lineal Múltiple- Multiple y Simple
-##Integrantes
+##Integrantes:
+
 Sara Arboleda 
 María Paula Gómez
 --------------------------------------------
