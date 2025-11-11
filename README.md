@@ -1,4 +1,4 @@
-# Regresión Lineal Múltiple-Simple
+# Regresión Lineal Múltiple- Multiple y Simple
 En este proyecto se implementaron dos modelos de regresión lineal en Java:
 
 Regresión Lineal Simple: para analizar la relación entre la temperatura y las ventas de helados.
