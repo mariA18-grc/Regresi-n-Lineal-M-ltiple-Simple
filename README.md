@@ -67,10 +67,10 @@ score(): Se hace la medición de las métricas de la regresión y ayuda a compro
 
 ## Conclusiones
 
-En la regresión lineal simple, se demostró cómo la temperatura afecta directamente las ventas de helados: a mayor temperatura, más ventas.
+En el modelo de regresión lineal simple se evidenció que la temperatura ejerce una influencia directa y positiva sobre las ventas de helados; es decir, a medida que la temperatura aumenta, también lo hacen las ventas. Esto demuestra cómo una sola variable puede explicar un comportamiento observable en el mundo real.
 
-En la regresión múltiple, el modelo muestra cómo distintas variables académicas influyen conjuntamente en el rendimiento del estudiante.
+Por su parte, la regresión múltiple permitió analizar cómo diversas variables académicas actúan simultáneamente para influir en el rendimiento de un estudiante. Este modelo brinda una visión más completa, pues reconoce que los fenómenos educativos no dependen de un único factor, sino de la interacción de varios.
 
-Ambos modelos permiten hacer predicciones basadas en datos reales, siendo herramientas fundamentales en la inteligencia artificial, la economía, la meteorología y la educación.
+En conjunto, ambos modelos muestran el valor de la estadística para efectuar predicciones basadas en datos reales. Estas herramientas son fundamentales en campos como la inteligencia artificial, la economía, la meteorología y la educación, ya que permiten comprender tendencias, anticipar resultados y apoyar la toma de decisiones informadas.
 
 
