@@ -37,12 +37,23 @@ y=mx+b
 
 Esta fórmulas se implementa en el método entrenar(), donde el modelo “aprende” los valores de la pendiente y el intercepto a partir de los datos.
 
-## Regresión Lineal Múltiple:
+### Regresión Lineal Múltiple:
 
+Métodos utilizados en la regresión lineal múltiple:
 
+setScaler(), getScaler(): Se encargan de escalar los datos de cierta matriz, en caso de que sus valores sean muy variados.
 
+setBias(), getBias(): Tienen como función establecer el bias para el modelo (valor de base).
 
+setWeights(), getWeights(): Se utilizan para calcular los pesos del modelo, que se arrojan al entrenar el modelo con el 70% de los datos para los cuales se realizará el estudio.
 
+dataScaling(): Se lleva a cabo el escalamiento de los datos.
+
+fit(): Método por medio del cual el modelo aprende con los datos ofrecidos, donde ejecuta las operaciones matriciales necesarias para obtener los pesos y el bias.
+
+predict(): Halla y_hat de acuerdo con los pesos y bias proporcionado anteriormente. La predicción se lleva a cabo con el 30% de los datos restantes.
+
+score(): Se hace la medición de las métricas de la regresión y ayuda a comprobar que tan preciso fue el modelo a la hora de hacer la predicción de acuerdo con los datos que ya había "aprendido" anteriormente.
 
 ## Conclusiones
 
