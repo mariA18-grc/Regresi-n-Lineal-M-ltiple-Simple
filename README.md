@@ -1,6 +1,6 @@
 # Regresión Lineal Múltiple- Multiple y Simple
 ##Integrantes:
-Sara Arboleda 
+Sara Arboleda -
 María Paula Gómez
 --------------------------------------------
 En este proyecto se implementaron dos modelos de regresión lineal en Java:
