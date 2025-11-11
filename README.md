@@ -33,7 +33,7 @@ y=mx+b
 Esta fórmulas se implementa en el método entrenar(), donde el modelo “aprende” los valores de la pendiente y el intercepto a partir de los datos.
 
 
-#Conclusiones
+##Conclusiones
 
 En la regresión lineal simple, se demostró cómo la temperatura afecta directamente las ventas de helados: a mayor temperatura, más ventas.
 
